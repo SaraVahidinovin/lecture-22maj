@@ -31,7 +31,8 @@ h1, h2 {
 
 p {
     font-size: 1.1em;
-    
+    text-align: justify;
+    padding: 5px;
 }
 
 h2 {
@@ -41,7 +42,7 @@ h2 {
 }
 
 ul {
-    list-style-type:upper-roman;
+    list-style-type: square;
 }
 
 ul li {
